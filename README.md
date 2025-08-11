@@ -3,6 +3,8 @@
 💻 **Développeur Web Junior** passionné par la création d’expériences interactives, intuitives et immersives.  
 🚀 À la recherche d’une **alternance à partir d’octobre 2025**.  
 ☕ Code, café et curiosité !
+![GitHub Snake](https://github.com/jerem2802/jerem2802/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
