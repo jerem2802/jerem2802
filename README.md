@@ -8,7 +8,7 @@
 ---
 
 ## 🙋‍♂️ À propos de moi
-- 🎓 Développeur web junior passionné par le front, le back & la 3D  
+- 🎓 Développeur web junior passionné par le front, le back & la 3D 😁😁
 - 📅 Disponible pour une alternance à partir d'octobre 2025  
 - 🚀 Toujours en train d’apprendre de nouvelles technos  
 - 🎯 Objectif : créer des expériences interactives qui marquent  
