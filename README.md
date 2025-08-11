@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Salut%2C+moi+c'est+J%C3%A9r%C3%A9my;D%C3%A9veloppeur+web+junior;Passionn%C3%A9+par+React%2C+Node.js+et+Three.js)](https://git.io/typing-svg)
 
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=jerem2802&show_icons=true&theme=tokyonight)
+
+
 ---
 
 ## 🚀 Stack & Outils
