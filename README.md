@@ -1,9 +1,11 @@
-# 👋 Salut, moi c’est Jérémy
+# 👋 Bienvenue, moi c’est Jérémy.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=D%C3%A9v+web+junior;React+%E2%80%A2+Node.js+%E2%80%A2+Three.js;Toujours+en+apprentissage+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 
 💻 **Développeur Web Junior** passionné par la création d’expériences interactives, intuitives et immersives.  
 🚀 À la recherche d’une **alternance à partir d’octobre 2025**.  
 ☕ Code, café et curiosité !
-![GitHub Snake](https://github.com/jerem2802/jerem2802/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
