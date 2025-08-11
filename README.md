@@ -45,11 +45,11 @@
 ## 📫 Me contacter
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jérémy-tichané)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-tichane/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
 
 ---
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jerem2802&layout=compact&theme=tokyonight)
+
 
 
 ⭐ **N’hésite pas à explorer mes projets et à me laisser un feedback !**
