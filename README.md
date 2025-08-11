@@ -1,9 +1,17 @@
-# 👋 Salut, moi c’est Jérémy
+<!-- Banner GIF -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tcjd5M2JmbDAwcGcxOTg5aGtqemg0a2ZiaWk2ejI1aHU1bHN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rm3cJx7OmvFWld8bM0/giphy.gif" width="100%" alt="Coding GIF">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Salut%2C+moi+c'est+J%C3%A9r%C3%A9my;D%C3%A9veloppeur+web+junior;Passionn%C3%A9+par+React%2C+Node.js+et+Three.js)](https://git.io/typing-svg)
+# 👋 Bienvenue, moi c’est Jérémy
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=jerem2802&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Développeur+web+junior;Passionné+par+React%2C+Node.js+et+Three.js;Toujours+en+apprentissage)](https://git.io/typing-svg)
 
+---
+
+## 🙋‍♂️ À propos de moi
+- 🎓 Développeur web junior passionné par le front & la 3D  
+- 📅 Disponible pour une alternance à partir d'octobre 2025  
+- 🚀 Toujours en train d’apprendre de nouvelles technos  
+- 🎯 Objectif : créer des expériences interactives qui marquent  
 
 ---
 
@@ -29,24 +37,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
 </p>
 
+---
+
+## 📊 Stats GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=jerem2802&show_icons=true&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=jerem2802&layout=compact&theme=tokyonight)
 
 ---
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF9F&width=600&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js;Node.js+%E2%80%A2+Express+%E2%80%A2+PostgreSQL;TailwindCSS+%E2%80%A2+Docker+%E2%80%A2+Prisma)](https://git.io/typing-svg)  
-
+## 🚀 Projets récents
+- 🎨 [Portfolio 3D interactif](https://sauvegarde-portfolio.vercel.app/) – React, Three.js, animations  
+- 🗂️ [TrackLab](https://github.com/jerem2802/tracklab) – Projet en cours de développeme 
 
 ---
 
 ## 📫 Me contacter
-
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jérémy-tichané)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-tichane/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)  
 
 ---
 
-
-
-⭐ **N’hésite pas à explorer mes projets et à me laisser un feedback !**
+![Snake animation](https://raw.githubusercontent.com/jerem2802/jerem2802/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/jerem2802/jerem2802/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
