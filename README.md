@@ -1,12 +1,6 @@
-# 👋 Bienvenue, moi c’est Jérémy.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=600&lines=D%C3%A9v+web+junior;React+%E2%80%A2+Node.js+%E2%80%A2+Three.js;Toujours+en+apprentissage+%F0%9F%9A%80)](https://git.io/typing-svg)
+# 👋 Salut, moi c’est Jérémy
 
-
-💻 **Développeur Web Junior** passionné par la création d’expériences interactives, intuitives et immersives.  
-🚀 À la recherche d’une **alternance à partir d’octobre 2025**.  
-☕ Code, café et curiosité !
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Salut%2C+moi+c'est+J%C3%A9r%C3%A9my;D%C3%A9veloppeur+web+junior;Passionn%C3%A9+par+React%2C+Node.js+et+Three.js)](https://git.io/typing-svg)
 
 ---
 
@@ -19,10 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -30,23 +20,30 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Projets récents
+## 🎯 Animations
 
-- 🎨 **Portfolio 3D interactif** – [Voir en ligne](https://sauvegarde-portfolio.vercel.app/)  
-- 🗂️ **TrackLab** – Application de gestion visuelle avec post-its interactifs  
-- 🔗 [Tous mes projets](https://github.com/jerem2802?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF9F&width=600&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js;Node.js+%E2%80%A2+Express+%E2%80%A2+PostgreSQL;TailwindCSS+%E2%80%A2+Docker+%E2%80%A2+Prisma)](https://git.io/typing-svg)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F7DC6F&width=600&lines=Toujours+en+apprentissage;Pr%C3%AAt+%C3%A0+relever+des+d%C3%A9fis;Et+cr%C3%A9er+des+projets+innovants)](https://git.io/typing-svg)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF6C37&width=600&lines=%F0%9F%9A%80+Disponible+pour+une+alternance+en+octobre+2025;D%C3%A9veloppeur+web+junior+motivi%C3%A9;Curieux+et+passionn%C3%A9)](https://git.io/typing-svg)  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=E34F26&width=600&lines=%F0%9F%92%BB+Code;☕+Caf%C3%A9;%F0%9F%8E%AE+Jeux;Repeat+%F0%9F%94%84)](https://git.io/typing-svg)
 
 ---
 
 ## 📫 Me contacter
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jérémy-tichané)  
-
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://tonportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
 
 ---
 
