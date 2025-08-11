@@ -59,5 +59,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/jerem2802/jerem2802/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/jerem2802/jerem2802/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
