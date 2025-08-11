@@ -49,5 +49,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
 
 ---
+![Snake animation](https://github.com/jerem2802/jerem2802/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ **N’hésite pas à explorer mes projets et à me laisser un feedback !**
