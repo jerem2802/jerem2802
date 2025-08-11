@@ -34,11 +34,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF9F&width=600&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js;Node.js+%E2%80%A2+Express+%E2%80%A2+PostgreSQL;TailwindCSS+%E2%80%A2+Docker+%E2%80%A2+Prisma)](https://git.io/typing-svg)  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F7DC6F&width=600&lines=Toujours+en+apprentissage;Pr%C3%AAt+%C3%A0+relever+des+d%C3%A9fis;Et+cr%C3%A9er+des+projets+innovants)](https://git.io/typing-svg)  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF6C37&width=600&lines=%F0%9F%9A%80+Disponible+pour+une+alternance+en+octobre+2025;D%C3%A9veloppeur+web+junior+motivi%C3%A9;Curieux+et+passionn%C3%A9)](https://git.io/typing-svg)  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=E34F26&width=600&lines=%F0%9F%92%BB+Code;☕+Caf%C3%A9;%F0%9F%8E%AE+Jeux;Repeat+%F0%9F%94%84)](https://git.io/typing-svg)
 
 ---
 
