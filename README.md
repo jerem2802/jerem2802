@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 Animations
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF9F&width=600&lines=React+%E2%80%A2+TypeScript+%E2%80%A2+Three.js;Node.js+%E2%80%A2+Express+%E2%80%A2+PostgreSQL;TailwindCSS+%E2%80%A2+Docker+%E2%80%A2+Prisma)](https://git.io/typing-svg)  
 
@@ -45,7 +45,7 @@
 ## 📫 Me contacter
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-tichane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jérémy-tichané)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
 
 ---
