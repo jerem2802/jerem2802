@@ -48,13 +48,13 @@
 
 ## 🚀 Projets récents
 - 🎨 [Portfolio 3D interactif](https://sauvegarde-portfolio.vercel.app/) – React, Three.js, animations  
-- 🗂️ [TrackLab](https://github.com/jerem2802/tracklab) – Projet en cours de développeme 
+- 🗂️ [TrackLab](https://github.com/jerem2802/tracklab) – Un espace collaboratif pour planifier et gérer vos tâches en équipe 🚧 En cours de déveloopement 🚧  
 
 ---
 
 ## 📫 Me contacter
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-tichane/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-tichan%C3%A9/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)  
 
 ---
