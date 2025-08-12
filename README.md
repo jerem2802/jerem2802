@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/abcdef12345.gif" width="400" alt="Leo Fitz with Technology">
-</p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Développeur+web+junior;Passionné+par+React%2C+Node.js+et+Three.js;Toujours+en+apprentissage)](https://git.io/typing-svg)
