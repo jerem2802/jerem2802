@@ -1,8 +1,9 @@
-<!-- Banner GIF -->
 
 
 
-<img src="URL_DE_TON_IMAGE" width="200px" />
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2016/11/29/08/08/abstract-1867349_1280.jpg" width="800" alt="Futuristic Digital Background">
+</p>
 
 
 <p align="center">
