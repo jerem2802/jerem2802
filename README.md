@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tcjd5M2JmbDAwcGcxOTg5aGtqemg0a2ZiaWk2ejI1aHU1bHN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rm3cJx7OmvFWld8bM0/giphy.gif" width="100%" alt="Coding GIF">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZyOTZxb2E4a21reXpnZXJ2OW5wdGpnYmlnNGRqdXplMTE3ZHc0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rm3cJx7OmvFWld8bM0/giphy.gif" width="100%" alt="Coding GIF">
 
 <img src="URL_DE_TON_IMAGE" width="200px" />
 
