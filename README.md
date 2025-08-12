@@ -68,14 +68,9 @@
 [![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerem2802&theme=radical&v=1)]() [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerem2802&theme=radical&v=1)]()
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerem2802&theme=radical&v=1)]() [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerem2802&theme=radical&utcOffset=+2&v=1)]()
 
-)
-
 ---
 
 ## 🚀 Projets récents
-
-
-## 🚀 Projets phares
 
 ✨ **[🎨 Portfolio 3D interactif](https://sauvegarde-portfolio.vercel.app/)**  
 > _React • Three.js • Animations immersives_  
@@ -84,8 +79,10 @@
 > _Espace collaboratif pour planifier et gérer vos tâches en équipe_  
 > 🚧 **En cours de développement** 🚧  
 
-
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=⚙️+CODING+IN+PROGRESS...;🧠+APPRENTISSAGE+CONTINU;🛰️+DEPLOIEMENT+EN+ORBIT;🧪+MODE+EXPERIMENTAL:+ON;🔐+AUTH:+GRANTED;🎮+PRESS_START_TO_CODE;🎯+MISSION:+INNOVATION" alt="Typing SVG" />
+</p>
 
 ## 📫 Me contacter
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
@@ -95,7 +92,3 @@
 ---
 
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👾+WELCOME+TO+MY+CODE+ZONE;⚡+404_SKILLS_NOT_FOUND...;🚀+DEPLOYING+INTO+THE+UNKNOWN;💾+LOADING+...;🎯+TARGET:+INNOVATION" alt="Typing SVG" />
-</p>
