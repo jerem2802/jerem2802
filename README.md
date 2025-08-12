@@ -1,9 +1,4 @@
 
-<p align="center">
-![You'ReWelcomeGIF (2)](https://github.com/user-attachments/assets/8c43e7e3-ff4d-42d9-952c-19a0449ead3c)
-
-</p>
-
 
 
 
@@ -12,6 +7,10 @@
 ---
 
 # 👋 Bienvenue, moi c’est Jérémy
+
+
+![TipHatJackSparrowGIF](https://github.com/user-attachments/assets/33bafcb1-76b9-4f48-8f48-d5a9ed3b8f4a)
+
 
 
 ---
