@@ -1,6 +1,14 @@
 <!-- Banner GIF -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1tcjd5M2JmbDAwcGcxOTg5aGtqemg0a2ZiaWk2ejI1aHU1bHN3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rm3cJx7OmvFWld8bM0/giphy.gif" width="100%" alt="Coding GIF">
 
+<img src="URL_DE_TON_IMAGE" width="200px" />
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👾+WELCOME+TO+MY+CODE+ZONE;⚡+404_SKILLS_NOT_FOUND...;🚀+DEPLOYING+INTO+THE+UNKNOWN;💾+LOADING+...;🎯+TARGET:+INNOVATION" alt="Typing SVG" />
+</p>
+
+
 # 👋 Bienvenue, moi c’est Jérémy
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Développeur+web+junior;Passionné+par+React%2C+Node.js+et+Three.js;Toujours+en+apprentissage)](https://git.io/typing-svg)
@@ -11,7 +19,10 @@
 - 🎓 Développeur web junior passionné par le front, le back & la 3D 😁😁
 - 📅 Disponible pour une alternance à partir d'octobre 2025  
 - 🚀 Toujours en train d’apprendre de nouvelles technos  
-- 🎯 Objectif : créer des expériences interactives qui marquent  
+- 🎯 Objectif : créer des expériences interactives qui marquent
+  
+
+
 
 ---
 
