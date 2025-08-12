@@ -5,23 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👾+WELCOME+TO+MY+CODE+ZONE;⚡+404_SKILLS_NOT_FOUND...;🚀+DEPLOYING+INTO+THE+UNKNOWN;💾+LOADING+...;🎯+TARGET:+INNOVATION" alt="Typing SVG" />
 </p>
-<br
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  />
+
 
 # 👋 Bienvenue, moi c’est Jérémy
 
