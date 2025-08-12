@@ -1,21 +1,15 @@
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/11/29/08/08/abstract-1867349_1280.jpg" width="100%" alt="Digital Background">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👾+WELCOME+TO+MY+CODE+ZONE;⚡+404_SKILLS_NOT_FOUND...;🚀+DEPLOYING+INTO+THE+UNKNOWN;💾+LOADING+...;🎯+TARGET:+INNOVATION" alt="Typing SVG" />
-</p>
-
-
-# 👋 Bienvenue, moi c’est Jérémy
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Développeur+web+junior;Passionné+par+React%2C+Node.js+et+Three.js;Toujours+en+apprentissage)](https://git.io/typing-svg)
 
 ---
 
-## 🙋‍♂️ À propos de moi
+# 👋 Bienvenue, moi c’est Jérémy
+
+
+---
+
+
 - 🎓 Développeur web junior passionné par le front, le back & la 3D 😁😁
 - 📅 Disponible pour une alternance à partir d'octobre 2025  
 - 🚀 Toujours en train d’apprendre de nouvelles technos  
@@ -71,3 +65,7 @@
 ---
 
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=👾+WELCOME+TO+MY+CODE+ZONE;⚡+404_SKILLS_NOT_FOUND...;🚀+DEPLOYING+INTO+THE+UNKNOWN;💾+LOADING+...;🎯+TARGET:+INNOVATION" alt="Typing SVG" />
+</p>
