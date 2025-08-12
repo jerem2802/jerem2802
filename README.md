@@ -2,15 +2,16 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Développeur+web+junior;Passionné+par+React%2C+Node.js+et+Three.js;Toujours+en+apprentissage)](https://git.io/typing-svg)
+
 
 ---
 
 # 👋 Bienvenue, moi c’est Jérémy
 
 
-![TipHatJackSparrowGIF](https://github.com/user-attachments/assets/33bafcb1-76b9-4f48-8f48-d5a9ed3b8f4a)
 
+
+![KaamelottPercevalGIF](https://github.com/user-attachments/assets/e07b9ddf-777a-4f92-934e-2a33fde16967)
 
 
 ---
