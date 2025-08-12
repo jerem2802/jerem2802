@@ -1,12 +1,7 @@
 
-
-<table>
-<tr>
-<td background="https://cdn.pixabay.com/photo/2016/11/29/08/08/abstract-1867349_1280.jpg">
-<h1 align="center" style="color:white;">Bienvenue sur mon profil</h1>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2016/11/29/08/08/abstract-1867349_1280.jpg" width="100%" alt="Digital Background">
+</p>
 
 
 <p align="center">
