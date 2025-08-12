@@ -1,4 +1,5 @@
 
+![TaylorSwiftCheeringGIF](https://github.com/user-attachments/assets/3a1da05a-fb69-40f5-b7cb-86422442f04c)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&width=600&lines=Développeur+web+junior;Passionné+par+React%2C+Node.js+et+Three.js;Toujours+en+apprentissage)](https://git.io/typing-svg)
