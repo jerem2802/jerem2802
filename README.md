@@ -4,6 +4,9 @@
 
 
 
+
+
+
 ---
 
 # 👋 Bienvenue, moi c’est Jérémy
@@ -20,10 +23,13 @@
 ---
 
 
-- 🎓 Développeur web junior passionné par le front, le back & la 3D 😁😁
-- 📅 Disponible pour une alternance à partir d'octobre 2025  
-- 🚀 Toujours en train d’apprendre de nouvelles technos  
-- 🎯 Objectif : créer des expériences interactives qui marquent
+
+- 🏠 Basé à **[Bordeaux, France]**  
+- 💻 **Développeur web junior** (Full Stack)  
+- 📅 Disponible pour une **alternance** dès **octobre 2025**  
+- 🚀 Toujours en train d’explorer de **nouvelles technos**  
+- 🎯 Objectif : **créer des expériences interactives qui marquent**  
+- 🌐 Passionné par le **web**, la **créativité** et l’**innovation**  
   
 
 
@@ -50,20 +56,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" />
+
 </p>
 
 ---
 
 ## 📊 Stats GitHub
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerem2802&theme=radical&v=1)]()
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerem2802&theme=radical&v=1)]() [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerem2802&theme=radical&v=1)]()
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerem2802&theme=radical&v=1)]() [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerem2802&theme=radical&utcOffset=+2&v=1)]()
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=jerem2802&show_icons=true&theme=tokyonight)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=jerem2802&layout=compact&theme=tokyonight)
+)
 
 ---
 
 ## 🚀 Projets récents
-- 🎨 [Portfolio 3D interactif](https://sauvegarde-portfolio.vercel.app/) – React, Three.js, animations  
-- 🗂️ [TrackLab](https://github.com/jerem2802/tracklab) – Un espace collaboratif pour planifier et gérer vos tâches en équipe 🚧 En cours de déveloopement 🚧  
+
+
+## 🚀 Projets phares
+
+✨ **[🎨 Portfolio 3D interactif](https://sauvegarde-portfolio.vercel.app/)**  
+> _React • Three.js • Animations immersives_  
+
+📌 **[🗂️ TrackLab](https://github.com/jerem2802/tracklab)**  
+> _Espace collaboratif pour planifier et gérer vos tâches en équipe_  
+> 🚧 **En cours de développement** 🚧  
+
 
 ---
 
