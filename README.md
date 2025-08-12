@@ -1,6 +1,11 @@
 <!-- Banner GIF -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZyOTZxb2E4a21reXpnZXJ2OW5wdGpnYmlnNGRqdXplMTE3ZHc0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rm3cJx7OmvFWld8bM0/giphy.gif" width="100%" alt="Coding GIF">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Rm3cJx7OmvFWld8bM0/giphy.gif" width="800" alt="Coding GIF">
+</p>
+
+
 <img src="URL_DE_TON_IMAGE" width="200px" />
 
 
