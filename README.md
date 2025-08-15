@@ -94,6 +94,8 @@
 | | | |
 |---|---|---|
 | <a href="https://sauvegarde-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="56" alt="Portfolio" /></a> | <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-tichan%C3%A9/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="56" alt="LinkedIn" /></a> | <a href="mailto:ton.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="56" alt="Email" /></a> |
+
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 | **Portfolio** | **LinkedIn** | **Email** |
 
 </div>
