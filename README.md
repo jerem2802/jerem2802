@@ -82,7 +82,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=⚙️+CODING+IN+PROGRESS...;🧠+APPRENTISSAGE+CONTINU;🛰️+DEPLOIEMENT+EN+ORBIT;🧪+MODE+EXPERIMENTAL:+ON;🔐+AUTH:+GRANTED;🎮+PRESS_START_TO_CODE;🎯+MISSION:+INNOVATION" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=⚙️+CODING+IN+PROGRESS...;🧠+APPRENTISSAGE+CONTINU;🛰️+DEPLOIEMENT+EN+ORBIT;🧪+MODE+EXPERIMENTAL:+ON;🔐+AUTH:+GRANTED;🎮+PRESS_START_TO_CODE;🎯+MISSION:+INNOVATION" alt="Typing SVG" /> 
 </p>
 
 ## 📫 Me contacter
