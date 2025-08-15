@@ -85,10 +85,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=⚙️+CODING+IN+PROGRESS...;🧠+APPRENTISSAGE+CONTINU;🛰️+DEPLOIEMENT+EN+ORBIT;🧪+MODE+EXPERIMENTAL:+ON;🔐+AUTH:+GRANTED;🎮+PRESS_START_TO_CODE;🎯+MISSION:+INNOVATION" alt="Typing SVG" /> 
 </p>
 
-## 📫 Me contacter
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://sauvegarde-portfolio.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%A9my-tichan%C3%A9/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)  
+## 📬 Me contacter  
+
+
+
+<div align="center">
+
+| | | |
+|---|---|---|
+| <a href="https://sauvegarde-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="56" alt="Portfolio" /></a> | <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9my-tichan%C3%A9/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="56" alt="LinkedIn" /></a> | <a href="mailto:ton.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="56" alt="Email" /></a> |
+| **Portfolio** | **LinkedIn** | **Email** |
+
+</div>
+
+---
+
 
 ---
 
