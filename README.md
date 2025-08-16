@@ -59,6 +59,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="50" hspace="10" alt="Scrum" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968700.png" height="50" hspace="10" alt="Agile" />
+
 
 </p>
 
