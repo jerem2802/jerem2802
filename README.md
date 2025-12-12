@@ -9,7 +9,7 @@
  
 ---
 
-# 👋 Bienvenue, moi c’est Jérémy
+# 👋 Welcome, i'm Jérémy !
 
 
 
