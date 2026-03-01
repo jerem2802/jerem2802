@@ -25,7 +25,7 @@
 
 
 - 🏠 Basé à **[Bordeaux, France]**  
-- 💻 **Développeur web junior** (Full Stack)  
+- 💻 **Développeur web** (Full Stack)  
 - 📅 Disponible pour une **alternance** dès **octobre 2025**  
 - 🚀 Toujours en train d’explorer de **nouvelles technos**  
 - 🎯 Objectif : **créer des expériences interactives qui marquent**  
